@@ -17,11 +17,11 @@ class Config:
     def __init__(self):
         """Application Variables."""
         self.app_dict = {
-            "author": "Aaron Melton <aaron@aaronmelton.com>",
+            "author": "Jørn Larsen <jorn.larsen@jotun-utvikling.no>",
             "date": "2024-11-01",
             "desc": "A Python script to capture the running-config of Cisco Routers and Switches.",
             "title": "download_router_config",
-            "url": "https://github.com/aaronmelton/DownloadRouterConfig",
+            "url": "https://github.com/Jotun-Utvikling-AS/DownloadRouterConfigCisco",
             "version": "4.1.5",
         }
 
